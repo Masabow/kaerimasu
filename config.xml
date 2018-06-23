@@ -25,7 +25,7 @@
         <allow-intent href="itms-apps:*" />
     </platform>
     <plugin name="cordova-plugin-advanced-http" spec="^1.11.1" />
-    <engine name="android" spec="^7.0.0" />
-    <engine name="browser" spec="^5.0.3" />
     <plugin name="org.flybuy.cordova.background-location-services" spec="~1.1.1" />
+    <engine name="browser" spec="^5.0.3" />
+    <engine name="android" spec="^6.4.0" />
 </widget>

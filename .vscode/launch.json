@@ -125,7 +125,7 @@
             "type": "cordova",
             "request": "launch",
             "platform": "browser",
-            "target": "brows",
+            "target": "chrome",
             "simulatePort": 8000,
             "livereload": true,
             "sourceMaps": true,

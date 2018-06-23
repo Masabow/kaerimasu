@@ -1,1 +1,1 @@
-{"plugins":["cordova-plugin-whitelist","cordova-plugin-advanced-http","cordova-plugin-file"]}
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-advanced-http","cordova-plugin-file","org.flybuy.cordova.background-location-services"]}
